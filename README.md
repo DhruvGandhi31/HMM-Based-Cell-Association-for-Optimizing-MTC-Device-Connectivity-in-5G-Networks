@@ -43,3 +43,5 @@ You can install the dependencies using `pip`:
 pip install pandas numpy matplotlib seaborn
 ```
 
+## References
+1. Balapuwaduge, Indika & Li, Frank. (2019). Hidden Markov Model based Machine Learning for mMTC Device Cell Association in 5G Networks. 
