@@ -2,7 +2,7 @@
 
 ![Project Status](https://img.shields.io/badge/Status-Finished-blue)
 
-## Group Details 
+## 🏆 Group Details 
 **Group Number:** Gr13EC431  
 **Group Members:**
 - **Akula Mani Shanker** (202151016)
@@ -14,13 +14,13 @@
 ### Mentor
 **Dr. Bhupendra Kumar**
 
-## Table of Contents
+## 📚 Table of Contents
 1. [Project Overview](#project-overview)
 2. [Setup and Requirements](#setup-and-requirements)
 3. [References](#references)
 
 
-## Project Overview
+## 🚀 Project Overview
 
 In the context of 5G networks, the efficient management of resources is crucial due to the massive number of connected devices, especially for Machine-Type Communication (MTC) devices. These devices, which typically involve low-power, low-latency communication, require optimized cell selection and channel availability strategies to maintain reliable and efficient communication in a dense network environment. This project applies Hidden Markov Models (HMM) to address these challenges.
 
@@ -40,7 +40,7 @@ The project uses HMMs to model the cell selection process and determine the chan
 
 
 
-## Setup and Requirements
+## 🔧 Setup and Requirements
 
 Before running the scripts, make sure to install the required libraries.
 
@@ -62,5 +62,5 @@ pip install -r requirements.txt
 cd code
 ```
 
-## References
+## 📬 References
 1. Balapuwaduge, Indika & Li, Frank. (2019). Hidden Markov Model based Machine Learning for mMTC Device Cell Association in 5G Networks. 
