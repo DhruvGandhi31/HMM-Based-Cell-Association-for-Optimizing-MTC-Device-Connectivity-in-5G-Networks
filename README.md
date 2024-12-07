@@ -12,7 +12,7 @@
 - **Vedant Bhagatsingh Patil** (202152330)
 
 ### Video Presentation
-![Video](https://drive.google.com/file/d/1t2h9LBTbvVElQDtiWF7XLKHkXdq7ofgj/view)
+https://drive.google.com/file/d/1t2h9LBTbvVElQDtiWF7XLKHkXdq7ofgj/view
 
 ### Mentor
 **Dr. Bhupendra Kumar**
