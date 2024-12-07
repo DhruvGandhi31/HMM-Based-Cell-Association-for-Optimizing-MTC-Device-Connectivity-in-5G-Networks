@@ -32,6 +32,3 @@ plt.title("Box Plot of Observational States by Cell")
 plt.xlabel("Cell")
 plt.ylabel("Observational States")
 plt.show()
-
-# Save the plot to a file
-plt.savefig("plot.png", dpi=300)
