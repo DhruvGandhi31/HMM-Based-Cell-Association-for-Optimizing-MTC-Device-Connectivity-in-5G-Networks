@@ -11,6 +11,9 @@
 - **Nihal Vishwakarma** (202151099)
 - **Vedant Bhagatsingh Patil** (202152330)
 
+### Mentor
+**Dr. Bhupendra Kumar**
+
 ## Table of Contents
 1. [Project Overview](#project-overview)
 2. [Setup and Requirements](#setup-and-requirements)
